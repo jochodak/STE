@@ -1,15 +1,17 @@
 # How to handle a difficult SME
 
-To get a crucial information, it is sometimes necessary to contact an SME who may not be eager to spare time on something else than his own duties or sis imply too busy. Below there are some tips that I consider helpful to encourage an SME to cooperate: 
+If you struggle to obtain a help from an SME, look at the below tips on how to encourage an SME to cooperate:
 
-- **Introduce yourself** - if this is the first time you reach the specific SME, it is worth mentioning who you are: your name, the team you work in, what does the team do, what is the reason for contacting the SME. It is essential that the SME is aware of the reason you need his assistance. Make sure this is the right person to be contacted.
+- **Introduce yourself** - if you contact the SME for the first time, it is good to mention: 
+your name, the team you work in, what does the team do, why you contact the SME. Make sure the SME knows why you need his assistance. Make sure you contact the right person.
 
-- **Describe the issue** - explain what information you require. Describe the context of the problem and prepare relevant questions. Avoid asking questions that can be easily found elsewhere
+- **Describe the issue** - explain what information you require. Describe the context of the problem and prepare questions. Do not ask questions which you can find easily.
+ 
+- **Set a deadline** - suggest and confirm a suitable deadline for the SME. When you set the date for the SME remember about your deadline and leave a sufficient amount of time to complete your task and for the next step;
 
-- **Set a deadline** - suggest a deadline and confirm it is suitable for the SME. When setting the deadline for the SME bear in mind the deadline for completing YOUR task. Leave some time for finishing your task and presumptively for the next step;
+- **Send a reminder** - if the SME does not reply to you, ask politely if he/she looked at your query. Tell the SME about the importance of the required information. If the SME does not respond, contact him/her by other communication means. Do not send too many messages.  
 
-- **Send a reminder** - if your SME didn’t reply to your query, send an email asking politely whether he/she had a chance to look at your query.  You can explain the importance of the required information. If the SME still didn't respond try other communication means, but do not bombard him/her with lots of messages  
-
- - **Appreciate help** - If the SME was helpful, don't forget to let him know. If there is an employee recognition program it is worth to give the SME a credit.  
-  > Note, that sometimes none of the above tips would work and an SME would not want to cooperate. I have encountered the like situation in my career. The whole team of people who might be able to help were completely unresponsive. The fact that the team was located in another country was not an advantage. The only solution was to find a new SME by contacting people related to the field I required the information about. 
+ - **Appreciate help** - Inform the SME how important his help was. Give the SME a credit in an employee recognition program, if applicable.
+  > Note   
+ If the SME does not respond despite of the taken measures, contact people related to the field in order to find a new SME.
 
