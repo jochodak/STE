@@ -13,9 +13,9 @@ your name, the team you work in, what does the team do, why you contact the SME.
 
  - **Appreciate help** - Inform the SME how important his help was. Give the SME a credit in an employee recognition program, if applicable.
 
- - **Add one more here** - Because so
+ - **Go for a coffee** - Buy your SME a coffee
 
- - **And add another** - To make more content
+ - **Go for a drink** - Buy your SME a drink if company policy allows
   > Note   
  If the SME does not respond despite of the taken measures, contact people related to the field in order to find a new SME.
 
