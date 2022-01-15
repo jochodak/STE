@@ -12,6 +12,10 @@ your name, the team you work in, what does the team do, why you contact the SME.
 - **Send a reminder** - if the SME does not reply to you, ask politely if he/she looked at your query. Tell the SME about the importance of the required information. If the SME does not respond, contact him/her by other communication means. Do not send too many messages.  
 
  - **Appreciate help** - Inform the SME how important his help was. Give the SME a credit in an employee recognition program, if applicable.
+
+ - **Go for a coffee** - Buy your SME a coffee or tea
+
+ - **Go for a drink** - Buy your SME a drink if company policy allows
   > Note   
  If the SME does not respond despite of the taken measures, contact people related to the field in order to find a new SME.
 
