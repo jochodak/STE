@@ -13,7 +13,7 @@ your name, the team you work in, what does the team do, why you contact the SME.
 
  - **Appreciate help** - Inform the SME how important his help was. Give the SME a credit in an employee recognition program, if applicable.
 
- - **Go for a coffee** - Buy your SME a coffee
+ - **Go for a coffee** - Buy your SME a coffee or tea
 
  - **Go for a drink** - Buy your SME a drink if company policy allows
   > Note   
