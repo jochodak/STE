@@ -2,7 +2,8 @@
 
 If you struggle to get a help from an SME, look at the below tips on how to encourage an SME to cooperate:
 
-- **Introduce yourself** - if you contact a SME for the first time, it is good to mention; 
+
+- **Introduce yourself** - if you contact an SME for the first time, it is good to mention; 
 your name, the team you work in, what the team does, why you contact the SME. Make sure the SME knows why you need their assistance. Make sure you contact the right person.
 
 - **Describe the issue** - tell the SME what information you require. Give the context of the problem and prepare questions. Do not ask questions which you can find easily.
